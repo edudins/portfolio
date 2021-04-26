@@ -1,10 +1,12 @@
 # My Portfolio
 
-Welcome. My name is **Edgars Dudins**. I am an aspiring **programmer**. Currently I have been working on developing my *personal portfolio page* and getting a grasp of web development technologies. I must say, web development is a scary place to be. I do, however, thoroughly enjoy playing around with different technologies and working out ways of making things work. This is why I feel I have a great potential to become an amazing programmer and a highly demanded web developer (full stack).
+Welcome. My name is **Edgars Dudins**. I am a junior **software developer**. In year 2019 I decided to return to Latvia and begin studies at university. I decided to pursue IT (Information Technologies), as I felt this would be the ultimate challenge for me - considering my passion for technology.
 
-This is my *first repository*. I will use this repository to create my portfolio page and keep learning Git as well as web-development. This readme file will be updated with further information.
+So, this is my portfolio. Hope you will enjoy traversing my comments and seeing my thoughts.
+
+I love talking about programming. If you do to, hook me up: `@dudins.lv`.
 
 ## TODO:
 
-- [ ] Add folder "Archived" to `gitignore`.
+- [X] Add folder "Archived" to `gitignore`.
 - [ ] Add language options to page: _ENG_ _GER_ _RUS_ and _LV_.
